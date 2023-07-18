@@ -1,4 +1,4 @@
-public class main {
+class main {
     private static void main() {
         System.out.println("Hello");
         for (int i = 0; i < 100; i++) {
