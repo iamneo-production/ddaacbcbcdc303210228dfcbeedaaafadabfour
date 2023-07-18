@@ -1,3 +1,3 @@
-public class main {
-    System.ou
+public class Main {
+    
 }
