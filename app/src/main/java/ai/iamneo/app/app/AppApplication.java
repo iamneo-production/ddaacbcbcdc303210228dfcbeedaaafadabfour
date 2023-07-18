@@ -26,6 +26,11 @@ public class AppApplication {
         System.out.println("Hello");
         System.out.println("Hello");
         System.out.println("Hello");
+		int a;
+		int b;
+		int c;
+		int c;
+		int 
 		for (int i = 0; i < 100; i++) {
 			System.out.println("Hello World");
 		}
