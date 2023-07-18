@@ -29,8 +29,15 @@ public class AppApplication {
 		int a;
 		int b;
 		int c;
-		int c;
-		int 
+		int d;
+		// int a;
+		// int a;
+		// int a;
+		// int a;
+		// int a;
+		// int a;
+		// int a;
+
 		for (int i = 0; i < 100; i++) {
 			System.out.println("Hello World");
 		}
